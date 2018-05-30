@@ -1,0 +1,7 @@
+{
+  "name": "Drupal-Jedi/selectize",
+  "description": "Fork with composer.json from https://github.com/selectize/selectize.js",
+  "type": "drupal-library",
+  "homepage": "https://github.com/Drupal-Jedi/selectize.js",
+  "license": "MIT"
+}
